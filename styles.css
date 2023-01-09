@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Abel', sans-serif;
+    color: darkolivegreen;
+}
+.texto-gral {
+    font-family: 'Montserrat', sans-serif;
+    color:gray
+}
+
+
+.tabla-pelis {
+    text-align: center;
+    border: 2px solid darkolivegreen;
+    font-family: 'Abel', sans-serif;
+    width: 600px;
+}
+
+th, td {
+    text-align: center;
+    border: .5px dotted darkolivegreen;
+    padding: 4px;
+}
+
+td {
+    color: gray;
+}
